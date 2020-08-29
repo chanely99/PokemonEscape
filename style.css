@@ -10,3 +10,16 @@ p {
 li{
 	font-size: 18px;
 }
+.hint{
+	margin-right: 10%; 
+	margin-left: 10%; 
+}
+
+.spoiler{ 
+  color: black; 
+  background-color:black;
+}
+
+.spoiler:hover { 
+  background-color:white; 
+}
